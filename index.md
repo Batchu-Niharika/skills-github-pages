@@ -1,4 +1,4 @@
 ---
-title: Niharika Batchu's Space
+title: Niharika Batchu's Resume
 ---
-Welcome to my space
+Resume
