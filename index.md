@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Niharika Batchu's Space
 ---
